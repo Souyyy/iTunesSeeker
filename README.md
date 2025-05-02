@@ -1,13 +1,13 @@
 <div align="center">
-  <img align="center" width="200" src="https://github.com/Souyyy/iTunesSeeker/blob/main/assets/icon.png" alt="Itunes Seeker"/>
+  <img align="center" width="200" src="https://github.com/Souyyy/iTunesSeeker/blob/main/assets/icon.png" alt="iTunes Seeker"/>
 </div>
 
-<h3 align="center">ItunesSeeker</h3>
+<h3 align="center">iTunesSeeker</h3>
 <p align="center">Application permettant de pouvoir rechercher des musiques/artistes sur l'API Itunes et de pouvoir intéragir avec.</p>
 
 ## Description
 
-ItunesSeeker est une application mobile développée avec **React Native** et **Expo**. Elle permet à l'utilisateur de rechercher des musiques ou des artistes via l'API iTunes, de noter les morceaux sur 10, de les ajouter à ses favoris, et de retrouver les musiques qu'il a notées ou aimées.
+iTunesSeeker est une application mobile développée avec **React Native** et **Expo**. Elle permet à l'utilisateur de rechercher des musiques ou des artistes via l'API iTunes, de noter les morceaux sur 10, de les ajouter à ses favoris, et de retrouver les musiques qu'il a notées ou aimées.
 
 Le projet repose sur une architecture propre utilisant **Redux** pour la gestion d’état global. 
 
